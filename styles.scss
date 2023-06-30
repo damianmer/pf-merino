@@ -1,0 +1,183 @@
+@media {
+	only {
+		screen {
+			and {
+				(max-width
+					&: 
+						600px) {
+							header {
+    background: rgba(0,0,0,0.7);
+							width: 100%;
+							position: fixed;
+							z-index: 100;
+						}
+					}
+				}
+			}
+		}
+	}
+
+nav {
+	float: left;
+	float: left;
+	ul {
+		list-style: none;
+		overflow: hidden;
+		list-style: none;
+		overflow: hidden;
+		li {
+			float: left;
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 16px;
+			float: left;
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 16px;
+			a {
+				display: block;
+				padding: 10px;
+				color: #fff;
+				text-decoration: none;
+				display: block;
+				padding: 10px;
+				color: #fff;
+				text-decoration: none;
+			}
+			&:hover {
+				background: #eca023;
+				background: #eca023;
+			}
+		}
+	}
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: justify;
+	color: gray;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: justify;
+	color: gray;
+	font-size: 16px;
+}
+.button {
+	background-color: grey;
+	color: white;
+	font-size: 16px;
+	border-radius: 5px;
+	border: none;
+	background-color: grey;
+	color: white;
+	font-size: 16px;
+	border-radius: 5px;
+	border: none;
+	background-color: grey;
+	color: white;
+	font-size: 16px;
+	border-radius: 5px;
+	border: none;
+	background-color: grey;
+	color: white;
+	font-size: 16px;
+	border-radius: 5px;
+	border: none;
+	background-color: grey;
+	color: white;
+	font-size: 16px;
+	border-radius: 5px;
+	border: none;
+	background-color: grey;
+	color: white;
+	font-size: 16px;
+	border-radius: 5px;
+	border: none;
+}
+h1 {
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+h2 {
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+h3 {
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+h4 {
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+.container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	3 {
+		pasos {
+			display: flex;
+			flex-direction: row;
+			justify-content: space-between;
+			align-items: center;
+			display: flex;
+			flex-direction: row;
+			justify-content: space-between;
+			align-items: center;
+		}
+	}
+}
+.item {
+	padding: 10px;
+	background-color: #f1f1f1;
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #f1f1f1;
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #f1f1f1;
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #f1f1f1;
+	border: 1px solid #ccc;
+}
+ {
+	@media {
+		only {
+			screen {
+				and {
+					(min-width 
+						&: 
+							601px) {
+								header {
+        background: rgba(0,0,0,0.7);
+								width: 100%;
+								position: fixed;
+								z-index: 100;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
